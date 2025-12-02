@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885881740177",
+    "project_id": "look-mood",
+    "storage_bucket": "look-mood.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885881740177:android:8ee3303be82e3a5eb95830",
+        "android_client_info": {
+          "package_name": "com.example.look_mood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY-8oigt76T8ofywZcSmKf60bWcA44nQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
