@@ -76,18 +76,12 @@ Contribuições são bem-vindas\! Se você tiver sugestões de melhoria, correç
 
 -----
 
-### Licença
-
-Este projeto está licenciado sob a Licença **[Nome da Licença, ex: MIT]**.
-
------
-
 ### Contato
 
 Se você tiver alguma dúvida ou sugestão, entre em contato:
 
-**Seu Nome/GitHub:** [@SeuUser]
-**Email:** seu.email@exemplo.com
+**Seu Nome/GitHub:** [@Miickkk]
+**Email:** anick.lima09@gmail.com
 
 -----
 
