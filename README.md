@@ -83,6 +83,3 @@ Se você tiver alguma dúvida ou sugestão, entre em contato:
 **Seu Nome/GitHub:** [@Miickkk]
 **Email:** anick.lima09@gmail.com
 
------
-
-Gostaria de adicionar mais detalhes sobre alguma das funcionalidades ou tecnologias específicas que você está usando (como o gerenciador de estado, por exemplo)?
